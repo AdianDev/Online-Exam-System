@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.deps.json
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.dll
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\bin\Debug\net5.0\ref\OnlineExamination.DataAccess.dll
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\bin\Debug\net5.0\OnlineExamination.DataAccess.pdb
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.AssemblyInfo.cs
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.dll
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\ref\OnlineExamination.DataAccess.dll
+C:\Users\HP\source\repos\OnlineExaminationSystemDemo\OnlineExamination.DataAccess\obj\Debug\net5.0\OnlineExamination.DataAccess.pdb
